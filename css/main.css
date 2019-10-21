@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+
+
+.big-banner{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://cdn-ep19.pressidium.com/wp-content/uploads/2018/07/photography-insurance-camera-office.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color:white; 
+
+}
+
+.btn-lg{
+    color:white;
+    border: 1px solid white;
+}
+
+
+
+.big-banner .btn-lg:hover{
+    background-color: aquamarine;
+}
+
+
+.clients img{
+    width:100px;
+    border-radius:50%;
+}
+
+.jumbotron{
+    background-color: rgb(9, 66, 9);
+}
+
+footer{
+    color:white;
+}
+
+hr.socket{
+    width:100%;
+    border-top:.2rem solid #666b71;
+    margin-top:3rem;
+}
